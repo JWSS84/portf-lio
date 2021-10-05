@@ -1,2 +1,2 @@
-# portf-lio
-Portfólio desenvolvedor frontend.
+# portifolio
+Portifolio desenvolvedor frontend.
